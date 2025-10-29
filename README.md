@@ -89,3 +89,4 @@ all_arns = invoke_bda_pipeline(INPUT_BUCKET, INPUT_PREFIX, OUTPUT_S3_URI)
 ```
 ## Referencias
 - [Understanding Amazon Bedrock Data Automation](https://github.com/aws-samples/sample-document-processing-with-amazon-bedrock-data-automation/tree/main/10-Understanding-BDA)
+- [Limpieza de indices y s3 vectors buckets](https://github.com/basaravia/s3vectors-2025ago/blob/main/notebooks/purga_s3vectors_aws.ipynb)
